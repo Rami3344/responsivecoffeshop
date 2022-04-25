@@ -37,7 +37,7 @@ body{
 .description{
     max-width: 480px;
     max-height: 600px;
-    background-image: url("./source/coffee-shop.jpg");
+    background-image: url("./coffee-shop.jpg");
     background-size: cover;
 }
 .text-pos{
@@ -93,7 +93,7 @@ body{
     color: aliceblue;
 }
 .locat{
-    background-image: url("./source/location-bg.jpg");
+    background-image: url("./location-bg.jpg");
     background-size: cover;
     max-width: 480px;
     max-height: 500px;
@@ -168,7 +168,7 @@ a{
     width: 1600px;
     height: 800px;
     margin: 0 auto;
-    background-image: url("./source/coffee-shop.jpg");
+    background-image: url("./coffee-shop.jpg");
     background-size: cover;
 }
 .text-pos{
@@ -230,7 +230,7 @@ a{
     color: aliceblue;
 }
 .locat{
-    background-image: url("./source/location-bg.jpg");
+    background-image: url("./location-bg.jpg");
     background-size: cover;
     width: 900px;
     height: 700px;
